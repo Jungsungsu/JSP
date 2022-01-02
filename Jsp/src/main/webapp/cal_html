@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<!--  문자열 
+	servlet : url mapping
+	Jsp : jsp 확장자-->
+<form action="cal.jsp">
+	<h1> 계산기 </h1>
+	Number1 :  <input type="text" name="num1"> 
+	<br>
+	Number2 :  <input type="text" name="num2">
+	<br> 
+	<input type ="submit" value="제출" align= left>
+</form>
+</body>
+</html>
